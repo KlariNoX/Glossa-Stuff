@@ -1,3 +1,3 @@
-# School-Stuff
+# ΓΛΩΣΣΑ-Stuff
 
-Im just gonna be dropping some random pieces of code here, school related things
+A place to have programs written in ΓΛΩΣΣΑ... Nothing to see here
